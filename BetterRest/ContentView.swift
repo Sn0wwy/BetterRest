@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  BetterRest
 //
-//  Created by Nacho Alaves on 20/7/23.
+//  Created by Nacho Alaves on 20/7/23
 //
 
 import CoreML
